@@ -23,6 +23,8 @@ namespace CollectionsTests
 
 
 
+
+
             //-------------------- Execute----------------------------------------
             catalog.Add("Yves Ligter", "Cours preparation A+");
             bookAuthor.Insert(0, "Jerome Hugon");
